@@ -1,6 +1,7 @@
-# React + Vite
+# My Component Library
+### Practice building scalable React UI component libraries with Storybook
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Based on the React + Vite template that provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
 
