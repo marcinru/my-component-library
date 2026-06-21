@@ -18,6 +18,14 @@ npm run dev
 
 Open the browser and go to http://localhost:5173
 
+## Start the Storybook
+
+```bash
+npm run storybook
+```
+
+Open the browser and go to http://localhost:6006
+
 ## Format code using prettier
 
 ```bash
