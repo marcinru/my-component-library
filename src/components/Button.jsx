@@ -15,9 +15,9 @@ export default function Button({
   );
 }
 
-Button.PropTypes = {
+Button.propTypes = {
   label: PropTypes.string.isRequired,
-  variant: PropTypes.oneOf(['primary', 'secondary']),
+  variant: PropTypes.oneOf(['primary', 'secondary', 'outline']),
   size: PropTypes.oneOf(['sm', 'md', 'lg']),
   onClick: PropTypes.func,
 };
